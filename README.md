@@ -1,1 +1,1 @@
-# ECGR4127_5090-Project
+# ECGR4127 5090 a Speech Commands Recoginiton Project
