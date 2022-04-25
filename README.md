@@ -6,7 +6,7 @@
 - [Models](https://github.com/gbass2/ECGR4127_5090-Project/tree/main/models/mini_speech)
   - Contains all of the different models that were tried.
 - [Data Augmenter](https://github.com/gbass2/ECGR4127_5090-Project/tree/main/data%20augmenter)
-  - Contains a Jupyter notebook that will augment the data such as pitch shift, time shift, add noise.
+  - Contains a Jupyter notebook that will augment the data such as pitch shift, time shift, and add noise.
 - speech_commands_microfrontend_v2.ipynb
   - Jupyter notebook for training the model.
 - streaming_audio_recog.ipynb
