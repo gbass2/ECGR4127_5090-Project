@@ -1,6 +1,12 @@
 # ECGR 4127/5090 Project - Speech Commands Recognition
 
-## Inluded files:
+Embedded machine learning project that deploys a keyword detection model to a Raspberry Pi Pico microcontroller.
+
+## Keywords:
+- Yes
+- Affirmative
+
+## Included files:
 - [Micro Speech Source Code](https://github.com/gbass2/ECGR4127_5090-Project/tree/main/arducam/micro_speech_custom)
   - Contains the code to run the model on the Arducam Pico4ML.
 - [Models](https://github.com/gbass2/ECGR4127_5090-Project/tree/main/models/mini_speech)
